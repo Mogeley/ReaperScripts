@@ -2,7 +2,7 @@ local debug = false;
 
 local drumsColor = 16810048; --reaper.ColorToNative(64, 128, 0);
 local bandColor = 25182208; --reaper.ColorToNative(0, 64, 128);
-local keysColor = 16842751;
+local keysColor = 16842751; -- 255,255,0
 local vocalsColor = 16809984; --reaper.ColorToNative(0, 128, 0);
 local effectsColor = reaper.ColorToNative(234, 0, 234);
 
